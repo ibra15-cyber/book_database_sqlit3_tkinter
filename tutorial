@@ -1,0 +1,7 @@
+pip install pyinstaller
+
+pyinstaller nameOf_file
+
+or 
+
+pyinstaller.exe --onefile --windowed .\frontend.py   
